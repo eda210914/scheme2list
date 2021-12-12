@@ -1,0 +1,3 @@
+C:/Users/'Confidence'F/Documents/dev netlist/netToScheme/cmake-build-debug/CMakeFiles/new.dir
+C:/Users/'Confidence'F/Documents/dev netlist/netToScheme/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/'Confidence'F/Documents/dev netlist/netToScheme/cmake-build-debug/CMakeFiles/rebuild_cache.dir

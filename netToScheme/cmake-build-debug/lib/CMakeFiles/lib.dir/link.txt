@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc liblib.a 
+C:\MinGW\bin\ranlib.exe liblib.a
