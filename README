@@ -1,0 +1,8 @@
+可以直接运行cmake-build-debug下的new.exe
+
+也可使用cmake进行编译：
+注意：
+CMakeLists.txt中target_link_libraries(new PUBLIC "%/libjsoncpp-25.dll")，%应替换为绝对路径
+应保证连接后生成的new.exe和libjsoncpp-25.dll在同一级文件夹，inst.json、net.json在它们的上一级文件夹。
+
+
